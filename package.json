@@ -1,6 +1,6 @@
 {
-	"author": "Igor Burykin",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Igor Burykin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
